@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Photo Collections"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Collections
+      - href: about.qmd
+        text: About
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/
+      - icon: github
+        href: https://github.com/jmsallan
+
+  open-graph: true
+  twitter-card: true
+  page-footer:
+    center: "© 2026 José M. Sallán"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lightbox: auto
+
+execute:
+  freeze: auto

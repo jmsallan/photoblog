@@ -1,0 +1,58 @@
+/* Anchura general */
+.page-layout-full .content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+/* Fondo neutro */
+body {
+  background-color: #fafafa;
+}
+
+/* Título principal */
+.title {
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+
+/* Imágenes */
+.quarto-figure {
+  margin-bottom: 1.5rem;
+}
+
+.quarto-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+/* Tarjetas de la página principal */
+.quarto-grid-item {
+  border: none;
+  background: transparent;
+}
+
+.quarto-grid-item img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.quarto-grid-item .card-title {
+  font-weight: 400;
+  font-size: 1.05rem;
+}
+
+/* Pies de fotografía */
+.figure-caption {
+  font-size: 0.8rem;
+  color: #777;
+  text-align: center;
+}
+
+/* Barra de navegación */
+.navbar {
+  background-color: #fafafa;
+  border-bottom: 1px solid #e5e5e5;
+}

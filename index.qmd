@@ -1,0 +1,15 @@
+---
+title: "La Gran Ciudad"
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  grid-columns: 3
+  image-height: 280px
+  page-size: 12
+  fields:
+    - image
+    - title
+    - description
+    - date
+---

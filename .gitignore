@@ -1,0 +1,58 @@
+# Salida generada por Quarto
+_site/
+.quarto/
+
+# Cachés y archivos generados durante la ejecución
+*_cache/
+*_files/
+.jupyter_cache/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# R y RStudio, si se utilizan
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python, si se utiliza
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Archivos de editores
+.vscode/
+.idea/
+
+# Fotografías originales y exportaciones pesadas
+originals/
+raw/
+RAW/
+exports/
+temp-images/
+
+# Formatos RAW habituales
+*.CR2
+*.CR3
+*.NEF
+*.ARW
+*.DNG
+*.RAF
+*.ORF
+*.RW2
+
+# Copias de edición de programas fotográficos
+*.xmp
+*.psd
+*.psb
+*.afphoto

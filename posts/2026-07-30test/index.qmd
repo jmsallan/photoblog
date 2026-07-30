@@ -1,0 +1,21 @@
+---
+title: "Barcelona Test"
+description: "A Test Post with some Barcelona Pics"
+date: 2026-07-30
+image: portada.webp
+categories:
+  - street photography
+  - Barcelona
+---
+
+::: {layout-ncol=2}
+
+![La Rosalía!](01_rosalia.webp){.lightbox group="barcelona-night"}
+
+![Agrupación Feminista Espiritista de Barcelona](02_agrupacion.webp){.lightbox group="barcelona-night"}
+
+![Señal de tráfico (A. D. 2026)](03_senyal.webp){.lightbox group="barcelona-night"}
+
+![La Sagrada Familia](04_safa.webp){.lightbox group="barcelona-night"}
+
+:::
