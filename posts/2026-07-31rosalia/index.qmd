@@ -1,0 +1,19 @@
+---
+title: "Barcelona Test"
+description: "A Test Post with some Barcelona Pics"
+date: 2026-07-31
+image: 01_rosalia.webp
+categories: [Barcelona, Street Photography]
+
+---
+
+Nacida en 1992 en Sant Esteve Sesrovires, y con estudios en el ESMUC, Rosalía es una cantante, compositora, productora, actriz, empresaria y motomami española. Actualmente el *paste-up* de la izquierda está deteriorado y el de TV Boy de la derecha ya ha desaparecido.
+
+::: {layout-ncol=2}
+
+![Rosalía como dantzari](01_rosalia.webp){.lightbox group="barcelona-night"}
+
+![Rosalía por TV Boy](02_rosalia.webp){.lightbox group="barcelona-night"}
+
+
+:::

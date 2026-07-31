@@ -3,11 +3,11 @@ project:
   output-dir: _site
 
 website:
-  title: "Photo Collections"
+  title: "La gran ciudad"
   navbar:
     left:
       - href: index.qmd
-        text: Collections
+        text: Fotos de la gran ciudad
       - href: about.qmd
         text: About
     right:

@@ -3,9 +3,8 @@ title: "Barcelona Test"
 description: "A Test Post with some Barcelona Pics"
 date: 2026-07-30
 image: portada.webp
-categories:
-  - street photography
-  - Barcelona
+categories: [Barcelona, Street Photography]
+
 ---
 
 ::: {layout-ncol=2}

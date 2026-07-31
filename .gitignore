@@ -56,3 +56,5 @@ temp-images/
 *.psd
 *.psb
 *.afphoto
+/.quarto/
+**/*.quarto_ipynb
