@@ -1,0 +1,19 @@
+---
+title: "Neb"
+description: "Carteles de Neb"
+date: 2026-08-07
+image: IMG_20260806_150239.webp
+categories: [Barcelona, Street Writing]
+
+---
+
+Recientemente las paredes del barrio ha amanecido llenas de carteles de Neb. El código QR lleva a su web: <https://whoisneb.com/>. Ha puesto también carteles en el *paste-up* de Rosalía, que ya estaba destruido en su parte inferior.
+
+::: {layout-ncol=2}
+
+![Cartel de Neb](IMG_20260806_150239.webp){.lightbox group="neb"}
+
+![Rosalía dantzari con Neb](IMG_20260806_150359.webp){.lightbox group="neb"}
+
+
+:::

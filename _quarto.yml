@@ -9,10 +9,8 @@ website:
       - href: index.qmd
         text: Fotos de la gran ciudad
       - href: about.qmd
-        text: About
+        text: Sobre este blog
     right:
-      - icon: instagram
-        href: https://www.instagram.com/
       - icon: github
         href: https://github.com/jmsallan
 

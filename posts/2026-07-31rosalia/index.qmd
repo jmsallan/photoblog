@@ -1,6 +1,6 @@
 ---
-title: "Barcelona Test"
-description: "A Test Post with some Barcelona Pics"
+title: "La Rosalía"
+description: "Un par de paste-up de Rosalía"
 date: 2026-07-31
 image: 01_rosalia.webp
 categories: [Barcelona, Street Photography]

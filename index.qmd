@@ -1,5 +1,5 @@
 ---
-title: "La gran ciudad"
+title: "Fotos de la gran ciudad"
 listing:
   contents: posts
   type: grid
