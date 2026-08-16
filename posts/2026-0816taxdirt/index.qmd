@@ -1,0 +1,18 @@
+---
+title: "Taxdirt"
+description: "Mosaico de vida marina en Taxdirt"
+date: 2026-08-16
+image: mural_taxdirt.webp
+categories: [Barcelona, Vintage]
+
+---
+
+Recientemente las paredes del barrio ha amanecido llenas de carteles de Neb. El código QR lleva a su web: <https://whoisneb.com/>. Ha puesto también carteles en el *paste-up* de Rosalía, que ya estaba destruido en su parte inferior.
+
+::: {layout-ncol=2}
+
+![Mosaico de vida marina](mural_taxdirt.webp){.lightbox group="neb"}
+
+
+:::
+
