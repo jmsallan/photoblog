@@ -7,7 +7,7 @@ categories: [Barcelona, Vintage]
 
 ---
 
-Recientemente las paredes del barrio ha amanecido llenas de carteles de Neb. El código QR lleva a su web: <https://whoisneb.com/>. Ha puesto también carteles en el *paste-up* de Rosalía, que ya estaba destruido en su parte inferior.
+Un mosaico sobre vida submarina que encontramos en la calle Taxdirt esquina Sardenya.
 
 ::: {layout-ncol=2}
 
