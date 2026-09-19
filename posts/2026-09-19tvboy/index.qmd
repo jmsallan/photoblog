@@ -1,0 +1,30 @@
+---
+title: "TVBoy"
+description: "Imágenes de TVBoy en 2022"
+date: 2026-08-24
+image: 01_portada.webp
+categories: [Barcelona, Paste-up]
+---
+
+[TVBoy](https://www.tvboy.it/) es un napolitano conocido por sus paste-up de personajes famosos. Su última acción en Barcelona fue presentar un retrato del valenciano Ferran Torres besando la Copa del Mundo, que fue vandalizado al cabo de unas horas.
+
+En 2022 tuvo bastante actividad en un armario situado en la Diagonal cerca de Paseo de Gracia. Aquí se muestran algunos retratos de Franco Battiato, Raffaella Carrá y Pau Donés. Eran artistas populares en ese momento, que habían muerto entre 2020 y 2021. También tenemos un retrato de la entonces pareja Rosalía-Tangana.
+
+
+
+::: {layout-ncol=2}
+
+![Diagonal - Paseo de Gràcia](01_portada.webp){.lightbox group="tvboy"}
+
+![Raffaella Carrá](02_raffaella.webp){.lightbox group="tvboy"}
+
+![Franco Battiato](03_battiatio.webp){.lightbox group="tvboy"}
+
+![San Battiato](04_san_battiato.webp){.lightbox group="tvboy"}
+
+![Pau Donés](05_pau_dones.webp){.lightbox group="tvboy"}
+
+![Rosalía y C. Tangana](06_rosalia_tangana.webp){.lightbox group="tvboy"}
+
+:::
+
