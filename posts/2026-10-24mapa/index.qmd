@@ -1,0 +1,18 @@
+---
+title: "Plazas de Gràcia"
+description: "Mosaico de vida marina en Taxdirt"
+date: 2026-10-24
+image: mapa_gracia.webp
+categories: [Barcelona, Street art]
+
+---
+
+Un mapa de las plazas de Gràcia, en Travessera de Gràcia con Joan Blanques. Falta el territorio entre Gran de Gràcia y Via Augusta.
+
+::: {layout-ncol=2}
+
+![Mosaico de vida marina](mapa_gracia.webp){.lightbox group="neb"}
+
+
+:::
+
