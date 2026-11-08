@@ -1,0 +1,26 @@
+---
+title: "Cursa Bombers 2026"
+description: "Fotos de la Cursa Bombers 2026"
+date: 2026-11-08
+image: 01_cursa.webp
+categories: [Barcelona, city life]
+---
+
+Hoy se ha celebrado la 27a edición de la *Cursa Bombers Barcelona*. Es una carrera popular en homenaje a los bomberos de la ciudad. Algunos de ellos hacen la carrera con el equipamiento de bombero completo. Antes y después de la carrera hemos podido ver algunos camiones clásicos de bomberos, restaurados por Bombers de Barcelona.
+
+::: {layout-ncol=2}
+
+![Antes de empezar](01_cursa.webp){.lightbox group="bombers"}
+
+![Camión Magirus 1929 de Bombers de Barcelona (vista lateral)](IMG_20261108_090746.webp){.lightbox group="bombers"}
+
+![Mecanismo para elevar la escalera del Magirus 1929](IMG_20261108_090806.webp){.lightbox group="bombers"}
+
+![Vista frontal del Magirus 1929 con la escalera extensible](IMG_20261108_090822.webp){.lightbox group="bombers"}
+
+![Vista frontal del Ford V8 de 1948, conocido como *«l'americà»*, carrozado como camión contra incendios por John Bean](camion_retocado.webp){.lightbox group="bombers"}
+
+![Vista lateral del Ford V8](IMG_20261108_112417.webp){.lightbox group="bombers"}
+
+:::
+
