@@ -1,0 +1,18 @@
+---
+title: "Anuncio"
+description: "Estado del mercado de antigüedades"
+date: 2026-11-44
+image: anuncio.webp
+categories: [Barcelona, Carteles]
+
+---
+
+De vez en cuando hay que vaciar pisos, aunque prefiramos no pensar demasiado en ello. Para los objetos almacenados con el tiempo en ese piso, el vaciado es un momento en que se vuelven a repartir las cartas. Algunos se instalarán en un nuevo piso, otros irán al cubo de la basura. Que vayan a un lugar o a otro depende de las preferencias del momento. Este anuncio muestra esas preferencias para 2026, en Barcelona.
+
+::: {layout-ncol=2}
+
+![Mosaico de vida marina](anuncio.webp){.lightbox group="neb"}
+
+
+:::
+
